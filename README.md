@@ -75,8 +75,8 @@ graph TD
 ### 1. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/your-username/patch-pilot.git
-cd patch-pilot
+git clone https://github.com/MeshramYug/Patch_Pilot_1.0.git
+cd Patch_Pilot_1.0
 pip install -r requirements.txt
 pip install -e .
 ```

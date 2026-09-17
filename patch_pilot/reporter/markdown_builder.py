@@ -73,6 +73,6 @@ class MarkdownReportBuilder:
             lines.append("```\n</details>")
 
         lines.append("\n---")
-        lines.append("<sub>Generated autonomously by [PatchPilot](https://github.com/yugme/patch-pilot) • Multi-Agent Code Intelligence</sub>")
+        lines.append("<sub>Generated autonomously by [PatchPilot](https://github.com/MeshramYug/Patch_Pilot_1.0) • Multi-Agent Code Intelligence</sub>")
 
         return "\n".join(lines)
