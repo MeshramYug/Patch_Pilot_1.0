@@ -14,6 +14,10 @@
   <b>Don't just detect bugs. Recreate them, write the test, and fix them until the test suite passes.</b>
 </p>
 
+<p align="center">
+  <img src="assets/terminal_demo.jpg" alt="PatchPilot Terminal Demo" width="850" />
+</p>
+
 </div>
 
 ---
