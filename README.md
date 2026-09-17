@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 PatchPilot
+# 🚀 PatchPilot 1.0
 
 ### **Autonomous Multi-Agent Code Reviewer, Security Auditor & Self-Healing Engine**
 
